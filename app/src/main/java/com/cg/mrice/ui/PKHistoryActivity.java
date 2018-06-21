@@ -40,7 +40,7 @@ import butterknife.ButterKnife;
 
 public class PKHistoryActivity extends AppCompatActivity implements VolleyCallBack {
 
-    private String pk_url = "https://www.pk106.com/draw-pk10-today.html";
+    private String pk_url = "https://www.78977a.com/draw-pk10-today.html";
 
     @BindView(R.id.toolbar)
     Toolbar toolbar;

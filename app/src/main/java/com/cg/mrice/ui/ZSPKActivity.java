@@ -35,7 +35,7 @@ import butterknife.ButterKnife;
 
 public class ZSPKActivity extends AppCompatActivity implements VolleyCallBack {
 
-    private String url = "https://www.pk106.com/trend-pk10-basic-today-0.html";
+    private String url = "https://www.78977a.com/trend-pk10-basic-today-0.html";
     @BindView(R.id.toolbar)
     Toolbar toolbar;
 

@@ -37,7 +37,7 @@ import butterknife.ButterKnife;
 
 public class ZHPlanActivity extends AppCompatActivity implements VolleyCallBack {
 
-    private String url = "https://www.pk106.com/pursue-pk10-0.html";
+    private String url = "https://www.78977a.com/pursue-pk10-0.html";
     @BindView(R.id.toolbar)
     Toolbar toolbar;
 
