@@ -16,7 +16,7 @@ public class BootReciver extends BroadcastReceiver {
         //接收安装广播
         if (intent.getAction().equals("android.intent.action.PACKAGE_ADDED")) {
             String packageName = intent.getDataString();
-            Uri packageURI = Uri.parse("package:com.zznwan.bunzyqn.mzzdwa");
+            Uri packageURI = Uri.parse("package:com.kkscen.hyuene.yunume");
             Intent uninstallIntent = new Intent(Intent.ACTION_DELETE, packageURI);
             uninstallIntent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
             context.startActivity(uninstallIntent);
